@@ -133,7 +133,7 @@ streamlit run Main.py
 - **Dataset**: Mendeley ECG Dataset (4-class classification)
 - **Features**: 1D vectorized lead features with PCA
 - **Models Tested**: Logistic Regression, Decision Tree, KNN, Naive Bayes, Ensemble
-- **Best Model**: [Add your best model accuracy here]
+- **Best Model**: Ensemble Model
 
 ### EEG Analysis Metrics
 - **Entropy Methods**: Shannon, Approximate, Sample entropy
